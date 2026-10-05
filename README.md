@@ -15,3 +15,4 @@ This repository contains Java programs for Object-Oriented Programming concepts.
 9. [Ex9 - String Operations using ArrayList](Ex9_StringMenu.java)
 10. [Ex10 - File Handling](Ex10_ListFiles.java)
 11. [Ex11 - CRUD Application with JavaFX and JDBC](Ex11_StudentManagementApp.java)
+12. [Ex12 - Library Management System](Ex12_LibraryManagementSystem.java)
